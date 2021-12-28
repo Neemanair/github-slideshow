@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bonds and vibes matter more than pictures
 Use the left arrow to go back!
